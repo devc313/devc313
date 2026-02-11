@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm ecvd aka devc</h1>
-<h3 align="center">I am a self-taught software developer, I am studying computer programming at *hidden* university</h3>
+<h1 align="center">Hi 👋, I'm ecvd</h1>
+<h3 align="center">I am a self-taught software developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devc313&label=Profile%20views&color=0e75b6&style=flat" alt="devc313" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **multiple projects**
 
-- 🌱 I’m currently learning **reverse-engineering, development with modern C++.**
+- 🌱 I’m currently learning ** development with modern C++.**
 
 - ⚡ Fun fact **im best**
 
