@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **multiple projects**
 
-- 🌱 I’m currently learning ** development with modern C++.**
+- 🌱 I’m currently learning something
 
 - ⚡ Fun fact **im best**
 
