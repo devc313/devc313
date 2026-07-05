@@ -3,8 +3,6 @@
 **Self-taught software developer** — building things across the stack.
 
 [![YouTube](https://img.shields.io/badge/YouTube-ecvd-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/c/ecvd)
-[![Discord](https://img.shields.io/badge/Discord-ciaey-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/ciaey)
-
 ---
 
 ## Tech Stack
